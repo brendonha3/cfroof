@@ -1,0 +1,9 @@
+{
+    "comment": "FILE FOR CFLINT TO IGNORE DIRECTORY",
+    "output" : [ ],
+    "rule" : [ ],
+    "excludes" : [ ],
+    "includes" : [ {} ],
+    "inheritParent" : false,
+    "inheritPlugins" : true
+}
